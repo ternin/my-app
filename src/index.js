@@ -5,7 +5,7 @@ import ReactDOM from 'react-dom';
 
 const Todo = ({Fname,Lname}) => {Fname = 'sudhir';
 Lname = 'Iyer'
-return (<h1>Hi </h1>)} 
+return (<h1>Hi How are you </h1>)} 
 
 
 
